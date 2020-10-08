@@ -2,3 +2,4 @@
 For Hacktoberfest
 main
 hlomain
+voidmain
